@@ -1,10 +1,10 @@
 # Site
 title:              naget的小屋
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                '知识爆炸的时代，碎片化的信息充斥着我们的头脑，甚至忘却了最简单最重要的东西'
+description:        "love is important,life is important,code is important"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/logo.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
