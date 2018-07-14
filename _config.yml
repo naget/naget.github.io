@@ -27,7 +27,7 @@ github_username:  naget
 
 # Build settings
 markdown: kramdown
-theme: slate
+theme: minima
 plugins:
   - jekyll-feed
 
