@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bced8dce-5bee-4dd4-90ae-0dc26bcc9b11" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-10-05-浅析ClassLoader的双亲委派.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bced8dce-5bee-4dd4-90ae-0dc26bcc9b11" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +63,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="182">
-                <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+                <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -77,12 +74,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-10-05-浅析ClassLoader的双亲委派.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="182">
-                <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-                <folding>
-                  <element signature="e#63#64#0" expanded="true" />
-                  <element signature="e#137#138#0" expanded="true" />
-                </folding>
+              <first_editor relative-caret-position="234">
+                <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -128,10 +121,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="1358" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="width" value="1296" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -139,6 +132,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -166,8 +161,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,6 +253,7 @@
       <workItem from="1537970895657" duration="1693000" />
       <workItem from="1538212161735" duration="5056000" />
       <workItem from="1538731817094" duration="986000" />
+      <workItem from="1538876825776" duration="290000" />
     </task>
     <task id="LOCAL-00001" summary="博客测试">
       <created>1531551477312</created>
@@ -422,11 +416,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538284089165</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="浅析classloader的双亲委派">
+      <created>1538876879776</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1538876879777</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32168000" />
+    <option name="totallyTimeSpent" value="32458000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -445,7 +446,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24205749" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24583964" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -476,7 +477,8 @@
     <MESSAGE value="KMP" />
     <MESSAGE value="计数排序" />
     <MESSAGE value="JKD1.8HashMap源码解析" />
-    <option name="LAST_COMMIT_MESSAGE" value="JKD1.8HashMap源码解析" />
+    <MESSAGE value="浅析classloader的双亲委派" />
+    <option name="LAST_COMMIT_MESSAGE" value="浅析classloader的双亲委派" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/tags/index.html">
@@ -876,7 +878,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="182">
-            <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -885,12 +887,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-10-05-浅析ClassLoader的双亲委派.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="182">
-            <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-            <folding>
-              <element signature="e#63#64#0" expanded="true" />
-              <element signature="e#137#138#0" expanded="true" />
-            </folding>
+          <first_editor relative-caret-position="234">
+            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           </first_editor>
           <second_editor />
         </state>
