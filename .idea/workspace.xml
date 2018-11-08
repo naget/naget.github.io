@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bced8dce-5bee-4dd4-90ae-0dc26bcc9b11" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-11-06-二叉树遍历总结（先序__中序__后序__按层遍历__之字遍历&amp;&amp;递归__非递归）.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -118,8 +117,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-11-06-二叉树遍历总结（先序__中序__后序__按层遍历__之字遍历&amp;&amp;递归__非递归）.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="52">
-                <caret line="2" column="17" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="17" />
+              <first_editor relative-caret-position="156">
+                <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -310,7 +309,7 @@
       <workItem from="1540361186423" duration="46000" />
       <workItem from="1540975839313" duration="1585000" />
       <workItem from="1541141853840" duration="18000" />
-      <workItem from="1541501694885" duration="637000" />
+      <workItem from="1541501694885" duration="2280000" />
     </task>
     <task id="LOCAL-00001" summary="博客测试">
       <created>1531551477312</created>
@@ -508,18 +507,25 @@
       <option name="project" value="LOCAL" />
       <updated>1540976232734</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="二叉树遍历">
+      <created>1541505501498</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1541505501498</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36211000" />
+    <option name="totallyTimeSpent" value="37854000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1296" height="1040" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.23603192" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -531,7 +537,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27184466" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27022654" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -567,7 +573,8 @@
     <MESSAGE value="Threadlocal解析" />
     <MESSAGE value="联合索引这点事儿" />
     <MESSAGE value="linux初级命令小记" />
-    <option name="LAST_COMMIT_MESSAGE" value="linux初级命令小记" />
+    <MESSAGE value="二叉树遍历" />
+    <option name="LAST_COMMIT_MESSAGE" value="二叉树遍历" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_posts/2018-09-29-JDK1.8HashMap源码解析.md">
@@ -989,8 +996,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-11-06-二叉树遍历总结（先序__中序__后序__按层遍历__之字遍历&amp;&amp;递归__非递归）.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="52">
-            <caret line="2" column="17" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="17" />
+          <first_editor relative-caret-position="156">
+            <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>
